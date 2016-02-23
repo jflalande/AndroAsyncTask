@@ -1,0 +1,12 @@
+<resources>
+  
+  <string name="app_name">AndroAsyncTask
+  </string>
+  <string name="hello_world">Waiting task...
+  </string>
+  <string name="menu_settings">Settings
+  </string>
+  <string name="title_activity_main">AndroAsyncTask
+  </string>
+  
+</resources>
